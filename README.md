@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-<br><br>
+<br>
 - 👀 I’m interested in learning programming languages 💻 and technology in general;<br>
 - 📚 I like to meet new people, learn by myself, work in group and become a better person;<br>
 - 🎯 I'm looking to become a good programmer, always trying to do my best on everything I work on.
